@@ -38,3 +38,5 @@ We currently use:
 - php8.1-curl
 - ffmpeg
 - yt-dlp
+
+- AVVISO: Questo progetto mira a tradurre WiiNet in italiano ed e molto incompleto. Potrebbe volerci un po'.
