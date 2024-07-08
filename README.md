@@ -4,17 +4,17 @@ Il Canale Internet, revitalizzato.
 
 
 ## Funzioni
-Adesso, WiiNet contiens 5 funzioni principali.
+Adesso, WiiNet contiene 5 funzioni principali.
 1. Giochi
-   - Play a variety of Web games on the Wii
+   - Gioca ad una varietà di giochi web sulla Wii
    - Many are sourced from BlueMaxima's Flashpoint
-   - Categorised into USB Keyboard, Made for Wii, PC Games and Javascript
+   - Categorie: Tastiera USB, Fatto per Wii, Giochi per PC e JavaScript
 2. Video
-   - Stream videos from a few content creators
-   - Mainly WiiNet contributors and friends
-   - Get your own channel by pledging to the Patreon
+   - Guarda dei video da alcuni content creator
+   - Soprattutto contributori di WiiNet e amici
+   - Puoi aggiungere il tuo canale donando al Patreon originale!
 3. Media
-   - View many old-school Flash animations and media
+   - Guarda tante vecchie animazioni di Flash 
    - Get a full screen view by enabling the "press 1 to hide menu" feature in the Internet Channel's settings
    - Many of them run at full speed, even on the Wii, due to their age
 5. Utilities
@@ -32,11 +32,11 @@ That is all for now, stay tuned for more updates on the project by joining the [
 ### Dependencies
 This is an incomplete, flawed list that will hopefully get more acccurate and helpful with time.
 
-We currently use:
+Per ora utilizziamo:
 - apache2
 - php8.1
 - php8.1-curl
 - ffmpeg
 - yt-dlp
 
-- AVVISO: Questo progetto mira a tradurre WiiNet in italiano ed e molto incompleto. Potrebbe volerci un po'.
+AVVISO: Questo progetto mira a tradurre WiiNet in italiano ed è molto incompleto. Potrebbe volerci un po'.
