@@ -7,7 +7,7 @@ Il Canale Internet, revitalizzato.
 Adesso, WiiNet contiene 5 funzioni principali.
 1. Giochi
    - Gioca ad una varietà di giochi web sulla Wii
-   - Many are sourced from BlueMaxima's Flashpoint
+   - Molti sono presi dal Flashpoint di BlueMaxima
    - Categorie: Tastiera USB, Fatto per Wii, Giochi per PC e JavaScript
 2. Video
    - Guarda dei video da alcuni content creator
@@ -15,22 +15,22 @@ Adesso, WiiNet contiene 5 funzioni principali.
    - Puoi aggiungere il tuo canale donando al Patreon originale!
 3. Media
    - Guarda tante vecchie animazioni di Flash 
-   - Get a full screen view by enabling the "press 1 to hide menu" feature in the Internet Channel's settings
-   - Many of them run at full speed, even on the Wii, due to their age
-5. Utilities
-   - A collection of browser-based utilities
-   - Some are Flash-powered, others javascript-based
-   - Things like Calculators and Paint tools
+   - Guardali a schermo intero attivando la funzione "Manuale: 1" che ti permette di premere 1 per nascondere la barra degli strumenti nelle impostazioni del Canale Internet
+   - La maggior parte vengono riprodotti a velocità normale, anche sulla Wii, per la loro vecchiaia
+5. Strumenti
+   - Una collezione di strumenti direttamente sul browser!
+   - Alcuni sono Flash-powered, altri javascript-based
+   - Cose come calcolatrici e strumenti per dipingere
 6. Altri
-   - A curated round-up of things that work great on Wii
-   - Webpages either ported to or made for the Internet Channel
-   - Links to other websites that are designed to work on the Wii
+   - Una collezione di siti che funzionano con Wii
+   - Pagine portate o fatte per il Canale Internet
+   - Link ad altri siti web creati per funzionare con Wii
 
-That is all for now, stay tuned for more updates on the project by joining the [Discord](https://discord.gg/PBuAbQbrXJ)
+Questo è tutto per ora, resta aggiornato sul progetto originale sul loro server [Discord](https://discord.gg/PBuAbQbrXJ)
 
 
 ### Dependencies
-This is an incomplete, flawed list that will hopefully get more acccurate and helpful with time.
+Questa è una lista incompleta, con errori, che si spera diventerà più acccurata e utile col tempo.
 
 Per ora utilizziamo:
 - apache2
