@@ -39,5 +39,7 @@ Per ora utilizziamo:
 - ffmpeg
 - yt-dlp
 
+IT;
 AVVISO: Questo progetto mira a tradurre WiiNet in italiano ed è molto incompleto. Potrebbe volerci un po'.
-AVVISO 2: I progressi di questa traduzione potrebbero essere interrotti.
+AVVISO 2: I progressi di questa traduzione potrebbero essere interrotti. Se i progressi saranno interrotti ma qualcuno vuole utilizzare qualcosa da qui, è richiesto dare i crediti.
+EN: If someone wants to use stuff on here, you can as long as you give credits.
