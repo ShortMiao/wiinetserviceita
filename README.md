@@ -40,3 +40,4 @@ Per ora utilizziamo:
 - yt-dlp
 
 AVVISO: Questo progetto mira a tradurre WiiNet in italiano ed è molto incompleto. Potrebbe volerci un po'.
+AVVISO 2: I progressi di questa traduzione potrebbero essere interrotti.
